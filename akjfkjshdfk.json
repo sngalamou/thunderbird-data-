@@ -3,6 +3,9 @@
     "lastName": "Parker",
     "preferredName": "Spider-Man",
     "city": "New-York City",
+    "zip": "10001",
+    "lat": "40.75",
+    "lng": "-73.99",
     "favoriteHobby": "Swinging from webs"
 }    
 
